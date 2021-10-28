@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NotFoundPage /> should match snapshot 1`] = `
+Array [
+  "4",
+  <span
+    aria-label="Crying Face"
+    role="img"
+  >
+    😢
+  </span>,
+  "4",
+  <p>
+    Page not found.
+  </p>,
+]
+`;
